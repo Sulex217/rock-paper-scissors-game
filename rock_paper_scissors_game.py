@@ -22,9 +22,6 @@ def determine_winner(user, computer):
          (user == "paper" and computer == "rock"):
         return "You win!"
 
-
-Initial commit: Rock Paper Scissors Python game
-
     else:
         return "Computer wins!"
 
